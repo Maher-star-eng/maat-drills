@@ -1,0 +1,6 @@
+hello
+*.dSYM/
+*.o
+a.out
+build/
+.DS_Store
